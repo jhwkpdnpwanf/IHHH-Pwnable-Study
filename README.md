@@ -36,5 +36,5 @@
 - Out of bounds 개념 및 실습  
   
 **[Week 8] Format String Bug**
-- Format String Bug 개념 및 실습
+- Command Injection 개념 및 실습
 
